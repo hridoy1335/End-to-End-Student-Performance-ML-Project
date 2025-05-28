@@ -13,5 +13,6 @@ joblib
 types-PyYAML
 mlflow
 streamlit
+from_root
 
 -e .
