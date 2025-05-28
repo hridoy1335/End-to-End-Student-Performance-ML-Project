@@ -42,6 +42,7 @@ list_of_file = [
     f"config/params_schema.yaml",
     f"app.py",
     f"main.py",
+    f"setup.py",
     f"requirements.txt",
     f".dockerignore",
     f"Dockerfile",
